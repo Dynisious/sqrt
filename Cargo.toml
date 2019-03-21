@@ -1,0 +1,11 @@
+
+[package]
+name = "sqrt"
+version = "0.1.0"
+authors = ["Dynisious <daniel.bechaz@gmail.com>"]
+edition = "2018"
+
+[features]
+test-all-nums = []
+
+[dependencies]
